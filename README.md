@@ -17,17 +17,14 @@ Permite seleccionar productos, actualizar el estado del carrito y mantener la in
 - Eliminar productos del carrito
 - Persistencia con localStorage
 - Comunicación entre componentes Padre-Hijo
----
+
 
 Feacture:
 🚀 Conexión con API y base de datos
 📱 Diseño responsive
----
+🚀 javascript a typescript(Esto lo voy hacer en otro repositorio)
 
-## 📷 Demo  
-![Descripción](https://github.com/user-attachments/assets/8a858720-cbac-4369-9a57-2ffe985f4f17)
----
-Podes ver la demo [acá](https://iridescent-seahorse-69c2bf.netlify.app/)
+
 # 🛠️ Instalación y Uso
 Ejecutar estos comandos por consola:
 
@@ -45,7 +42,7 @@ npm install
 ```bash
 npm run dev
 ```
----
+----
 
 # 📌 Roadmap
 
